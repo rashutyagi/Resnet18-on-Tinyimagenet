@@ -22,6 +22,8 @@ Epoch: 1, Train set: Average loss: 0.0160, Accuracy: 12.44%; Test set: Average l
 Learning Rate = 0.121895
 HBox(children=(IntProgress(value=0, max=301), HTML(value='')))
 Validation loss decreased (3.741700 --> 3.429924).  Saving model ...
+
+
 Epoch: 2, Train set: Average loss: 0.0145, Accuracy: 18.01%; Test set: Average loss: 3.4299, Accuracy: 22.79%
 Learning Rate = 0.185448
 HBox(children=(IntProgress(value=0, max=301), HTML(value='')))
