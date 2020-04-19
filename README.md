@@ -1,5 +1,7 @@
 # Resnet18-on-Tinyimagenet
 
+Group members - Rashu,Uday,Divya,Srilakshmi.
+
 Tinyimagenet can be downloaded from here -> http://cs231n.stanford.edu/tiny-imagenet-200.zip)dataset
 
 Best Validation accuracy = 62.35 in 50th epoch.
